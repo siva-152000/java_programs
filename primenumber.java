@@ -12,12 +12,13 @@ public class primenumber
          System.out.println ("The prime numbers in between the entered numbers are :");
          for(i = num1; i <= num2; i++)
          {
-             for( j = 2; j < i; j++)
-             {
-               if(i==j)
+               if(i==2)
                 { 
                  System.out.println(+i);
                  }
+          for( j = 2; j < i; j++)
+             {
+               
                  else
                  if(i % j == 0)
                  {
