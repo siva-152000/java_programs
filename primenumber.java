@@ -14,7 +14,7 @@ public class primenumber
          {
                if(i==2)
                 { 
-                 System.out.println(""s+i);
+                 System.out.println(""+i);
                  }
           for( j = 2; j < i; j++)
              {
