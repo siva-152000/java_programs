@@ -1,3 +1,4 @@
+//prime numbers between range....
 import java.util.Scanner;
 public class primenumber
 {
