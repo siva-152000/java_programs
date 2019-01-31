@@ -1,4 +1,4 @@
-//program to create object for TreeSet and Stack and implement
+//program to create object for TreeSet and Stack and implement demo
 import java.io.*;
 import java.util.*;
 import java.util.Scanner;
